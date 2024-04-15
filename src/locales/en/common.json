@@ -1,0 +1,740 @@
+{
+    "glob": {
+        "title": "Webdesign Agency Switzerland | Layout.ch",
+        "descr": "Discover how Layout.ch makes your brand shine with passion in every line of code. Your Swiss web agency to stand out from the crowd.",
+        "keywords": "web design Switzerland, custom web development, no templates, performance web design, Swiss web agency",
+        "ogTitle": "Webdesign Agency Switzerland | Layout.ch",
+        "ogDescr": "Discover how Layout.ch makes your brand shine with passion in every line of code. Your Swiss web agency to stand out from the crowd.",
+        "navbar": {
+            "home": "Home",
+            "website-creation": "Website creation",
+            "blog": "Blog",
+            "academy": "Layout Academy",
+            "price": "Pricing",
+            "contact": "Contact",
+            "navigation": "Navigation",
+            "ressources": "Resources",
+            "asterix": "* Pages will be online soon",
+            "open": "Open"
+        },
+        "footer": {
+            "impressum": "Imprint",
+            "privacy": "Privacy Policy",
+            "agb": "GTC",
+            "contact": "Get in touch",
+            "copy": "© 2024 Layout.ch",
+            "copy-desktop": ". All rights reserved.",
+            "newsletter-title": "Subscribe to Layout.ch's newsletter",
+            "newsletter-descr": "Stay informed about the latest news, articles, and resources.",
+            "newsletter-btn": "Subscribe",
+            "success-message": "Thank you!"
+        },
+        "pricing": {
+            "title": "Choose a package",
+            "starter-package": {
+                "title": "Layout All-in-one",
+                "price": "150 - 190 CHF / Month",
+                "price-after": " / per month",
+                "description": "Website & Service included: Every edit, hosting, updates, and security covered.",
+                "main-btn": "Contact us",
+                "secondary-btn": "More info",
+                "popup": {
+                    "close-btn": "Close",
+                    "what-you-get": "What you get",
+                    "limitation": "Limitations",
+                    "description": "Starter package for your professional online presence. Ideal for small businesses or projects that want to go online quickly.",
+                    "benefits": [
+                        {
+                            "title": "Simple and Transparent Subscription:",
+                            "descr": "Starting at 150 CHF per month for one page, up to 190 CHF for five pages."
+                        },
+                        {
+                            "title": "Rapid Deployment:",
+                            "descr": "Your site can be operational in just 2 weeks."
+                        },
+                        {
+                            "title": "No Initial Fees:",
+                            "descr": "No initial costs, you only pay the monthly subscription."
+                        },
+                        {
+                            "title": "No Commitment:",
+                            "descr": "Total freedom to cancel the subscription at any time without complications."
+                        },
+                        {
+                            "title": "Turnkey and Hassle-Free:",
+                            "descr": "Updates, content changes, security patches, and hosting all included."
+                        },
+                        {
+                            "title": "Perfect for Essential Needs:",
+                            "descr": "Ideal for small businesses and independent professionals looking for a simple and effective web solution."
+                        },
+                        {
+                            "title": "Swiss Design and Coding:",
+                            "descr": "Every element of the site is designed and coded by hand in Switzerland, ensuring unmatched quality and attention to detail."
+                        },
+                        {
+                            "title": "High Performance and Optimized Design:",
+                            "descr": "High-performing sites, designed to maximize conversions, with scores above 90 on Lighthouse."
+                        },
+                        {
+                            "title": "SEO Optimized:",
+                            "descr": "Each website is optimized for Onpage SEO from the start, to ensure the best possible visibility."
+                        }
+                    ],
+                    "limitations": [
+                        "Ideal for small websites with up to five pages",
+                        "Standard features without special extras (e.g., blog or multilingualism)"
+                    ]
+                }
+            },
+            "premium-package": {
+                "title": "Layout Business",
+                "price-before": "starts at ",
+                "price": "from 2,000 CHF - one-time",
+                "price-after": " / one time",
+                "description": "Custom-built, feature-rich website with one year of premium support included.",
+                "main-btn": "Price calculator",
+                "secondary-btn": "More info",
+                "popup": {
+                    "close-btn": "Close",
+                    "what-you-get": "What you get",
+                    "description": "The premium package for demanding online projects. Perfect for companies with a higher budget that value individuality and comprehensive service.",
+                    "benefits": [
+                        {
+                            "title": "Flexibility and Customization:",
+                            "descr": "Thanks to our online calculator, you can easily configure your site and get an instant price."
+                        },
+                        {
+                            "title": "Advanced Evolution Possibilities:",
+                            "descr": "Add features as needed by browsing through the add-ons available in our configurator."
+                        },
+                        {
+                            "title": "One Year of Premium Support:",
+                            "descr": "Enjoy a year of updates, security patches, hosting, performance reports, and design adjustments included."
+                        },
+                        {
+                            "title": "Swiss Design and Coding:",
+                            "descr": "Each site is meticulously designed and coded by hand in Switzerland, ensuring a high-quality and personalized product."
+                        },
+                        {
+                            "title": "SEO Optimized:",
+                            "descr": "Each website is optimized for Onpage SEO from the start, to ensure the best possible visibility."
+                        },
+                        {
+                            "title": "Data Analysis and Enterprise-Level Security:",
+                            "descr": "For optimized performance and complete peace of mind."
+                        },
+                        {
+                            "title": "Accessibility and Sustainable Development:",
+                            "descr": "Sites designed to be inclusive and environmentally friendly."
+                        },
+                        {
+                            "title": "Total Ownership of the Site:",
+                            "descr": "Once purchased, the site is entirely yours."
+                        }
+                    ]
+                }
+            }
+        },
+        "contact": {
+            "title": "Get in touch",
+            "mail": "Via email",
+            "meets": "Google Meets",
+            "subtitle": "Or directly via our form",
+            "fullname": "Full name",
+            "email": "Email",
+            "message": "Message",
+            "send-btn": "Send",
+            "loading": "sending...",
+            "error": "Something went wrong!",
+            "sent": "Sent !"
+        },
+        "configurator": {
+            "page": " / page",
+            "step1": "Pages",
+            "step2": "Functionalities",
+            "step3": "Brand",
+            "page-title": "Select a page package",
+            "enhance-title": "Functionalities",
+            "extras-title": "Boost your brand",
+            "config-title": "Your configuration",
+            "config-mainTitle": "One step closer to your perfect website",
+            "config-descr": "We are ready to analyze your selection and provide personalized strategies that precisely fit your needs.",
+            "contact-title": "Get in touch",
+            "primary-btn": "Next",
+            "secondary-btn": "Back",
+            "total": "Total price :",
+            "config-btn": "Modify configuration",
+            "form-btn": "To the form",
+            "modules": {
+                "glob": {
+                    "pre-title": "Addon - ",
+                    "title-descr": "What you get",
+                    "title-features": "Features",
+                    "title-target": "Target audience",
+                    "questions": "Do you have any questions?",
+                    "contact": "Get in touch"
+                },
+                "page": [
+                    {
+                        "iconName": "1-page-icon",
+                        "title": "1 Page",
+                        "price": 2000,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Just the Essentials:",
+                                    "descr": "A simple page that typically includes the following sections: home, about, your offer, and how to contact you."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "5-page-icon",
+                        "title": "Up to 4 Pages",
+                        "price": 3200,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Expand Your Site:",
+                                    "descr": "Ideal for separating your content into multiple pages such as: home page, about page, services or products page, and your contact page."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "10-page-icon",
+                        "title": "Up to 8 Pages",
+                        "price": 4800,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Maximize Your Impact:",
+                                    "descr": "Having 8 pages at your disposal you can, for example, add details on each service or product, highlight case studies, detail your mission and values, and include a space for news or articles."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "15-page-icon",
+                        "title": "Up to 16 Pages",
+                        "price": 8000,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "The Ultimate Space for Your Site:",
+                                    "descr": "Take advantage of this generous space to cover all aspects of your activity: detailed services, extensive portfolio, in-depth presentation of your team, multiple case studies, news, blog articles, and much more. Ideal for businesses looking to provide a rich and informative experience to their visitors."
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "functionalities": [
+                    {
+                        "iconName": "form-icon",
+                        "title": "Contact Form",
+                        "price": 300,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Custom Fields:",
+                                    "descr": "Precisely choose the information you wish to collect."
+                                },
+                                {
+                                    "title": "Spam Protection:",
+                                    "descr": "So you can focus on the important messages."
+                                },
+                                {
+                                    "title": "Automatic Responses:",
+                                    "descr": "Show your visitors that their message has been received instantly."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "news-icon",
+                        "title": "Newsletter",
+                        "price": 400,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Direct Communication:",
+                                    "descr": "Create a direct communication channel with your clients or subscribers to keep them informed of news and offers."
+                                },
+                                {
+                                    "title": "Increased Engagement:",
+                                    "descr": "Boost your audience engagement with regular newsletters that highlight your content and offers."
+                                },
+                                {
+                                    "title": "Performance Tracking:",
+                                    "descr": "Benefit from detailed analysis on the performance of your email campaigns to optimize your future communications."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "booking-icon",
+                        "title": "Booking System",
+                        "price": 500,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Simplified Reservations:",
+                                    "descr": "Offer your clients an easy and intuitive method to book directly on your site, improving user experience and boosting your conversions."
+                                },
+                                {
+                                    "title": "Centralized Management:",
+                                    "descr": "Manage all your reservations in one place, with an easy-to-use system for you and your team, reducing the risk of errors and saving time."
+                                },
+                                {
+                                    "title": "Real-Time Availability:",
+                                    "descr": "Show real-time availability to prevent overbooking and efficiently manage customer expectations."
+                                },
+                                {
+                                    "title": "Confirmation and Automatic Reminders:",
+                                    "descr": "Automate booking confirmations and reminders to reduce no-shows and improve customer satisfaction."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "gallery-icon",
+                        "title": "Image Gallery",
+                        "price": 400,
+                        "soon": false,
+                        "soonText": "Coming soon",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Visual Showcase:",
+                                    "descr": "Highlight your work, products, or services through an attractive and professional image gallery or portfolio."
+                                },
+                                {
+                                    "title": "Intuitive Navigation:",
+                                    "descr": "Allow visitors to easily navigate your gallery with an intuitive and responsive user interface."
+                                },
+                                {
+                                    "title": "Loading Optimization:",
+                                    "descr": "Ensure a fast and smooth experience even for image-rich galleries, thanks to loading optimization techniques."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "blog-icon",
+                        "title": "Blog / Articles",
+                        "price": 1000,
+                        "soon": true,
+                        "soonText": "Coming soon",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Dynamic Content:",
+                                    "descr": "Enrich your site with a blog or articles that invigorate your content, improving SEO and capturing your visitors' attention."
+                                },
+                                {
+                                    "title": "Showcase Expertise:",
+                                    "descr": "Demonstrate your expertise and share your knowledge through relevant blog articles, strengthening trust and client engagement."
+                                },
+                                {
+                                    "title": "Increased Interactivity:",
+                                    "descr": "Encourage interactions by allowing visitors to leave comments, thus increasing engagement and brand loyalty."
+                                },
+                                {
+                                    "title": "Boosted SEO:",
+                                    "descr": "Benefit from improved search engine rankings through regularly updated content, helping your site gain visibility."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "cms-icon",
+                        "title": "CMS",
+                        "price": 1200,
+                        "soon": true,
+                        "soonText": "Coming soon",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Management Autonomy:",
+                                    "descr": "Gain the freedom to easily update your site's content, without needing technical skills, thanks to an intuitive interface."
+                                },
+                                {
+                                    "title": "Security and Reliability:",
+                                    "descr": "Enjoy a secure and reliable system, ensuring your site stays protected against online threats while ensuring optimal performance."
+                                },
+                                {
+                                    "title": "Real-Time Updates:",
+                                    "descr": "Ensure your site is always up to date with real-time changes, allowing instant response to your business needs."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "multi-icon",
+                        "title": "Multilingual",
+                        "price": 1200,
+                        "soon": true,
+                        "soonText": "Coming soon",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Open Your Site to the World:",
+                                    "descr": "Expand your audience by making your site accessible in multiple languages, capturing the interest of international visitors."
+                                },
+                                {
+                                    "title": "Simplified Language Management:",
+                                    "descr": "Easily manage content in different languages with an intuitive interface, ensuring perfect consistency across linguistic versions."
+                                },
+                                {
+                                    "title": "Localized SEO:",
+                                    "descr": "Improve your ranking in different regions and languages, attracting more visitors with SEO tailored to each language."
+                                },
+                                {
+                                    "title": "Personalized User Experience:",
+                                    "descr": "Offer a smooth and personalized user experience by automatically displaying content in the visitor's language."
+                                }
+                            ]
+                        }
+                    }
+                ],
+                "extras": [
+                    {
+                        "iconName": "copy-icon",
+                        "title": "Copywriting",
+                        "price": 100,
+                        "recomText": "Recommended",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Captivating Content:",
+                                    "descr": "Benefit from professional texts that capture attention, strengthen your brand message, and encourage action."
+                                },
+                                {
+                                    "title": "SEO Optimization:",
+                                    "descr": "Improve your online visibility with content optimized for search engines, drawing more traffic to your site."
+                                },
+                                {
+                                    "title": "Consistent Brand Tone:",
+                                    "descr": "Ensure consistent communication across your site with a carefully crafted and steady brand tone."
+                                },
+                                {
+                                    "title": "Improved Conversion:",
+                                    "descr": "Increase your conversion rates with persuasive calls to action and clearly defined messages."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "logo-icon",
+                        "title": "Logo",
+                        "price": 900,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Strong Brand Identity:",
+                                    "descr": "Create a memorable first impression with a distinctive logo that reflects the essence and values of your brand."
+                                },
+                                {
+                                    "title": "Custom Design:",
+                                    "descr": "Benefit from a custom logo design, created exclusively for your business, ensuring uniqueness and relevance."
+                                },
+                                {
+                                    "title": "Visual Consistency:",
+                                    "descr": "Strengthen the consistency of your visual identity across all mediums, from the website to business cards and social media."
+                                },
+                                {
+                                    "title": "High-Resolution Files:",
+                                    "descr": "Receive your logo in various high-resolution file formats, ready for printing and the web."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "brand-icon",
+                        "title": "Brand Identity",
+                        "price": 1400,
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Solid Brand Foundations:",
+                                    "descr": "Gain the essential elements to build a strong brand identity from the start, including a logo, color palette, typography, and visual style that truly represent who you are."
+                                },
+                                {
+                                    "title": "Custom Color Palette:",
+                                    "descr": "Use a custom color palette designed to reflect the values and energy of your brand, ensuring immediate recognition."
+                                },
+                                {
+                                    "title": "Harmonized Typography:",
+                                    "descr": "Enjoy a selection of fonts that not only complement your brand's aesthetics but also enhance readability and user experience on your site."
+                                },
+                                {
+                                    "title": "Cross-Platform Consistency:",
+                                    "descr": "Ensure a consistent brand presence across all platforms, from social media to the website, with an easy-to-follow style guide."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "iconName": "photo-icon",
+                        "title": "Professional Photography",
+                        "price": 1200,
+                        "soon": true,
+                        "soonText": "Coming soon",
+                        "content": {
+                            "features": [
+                                {
+                                    "title": "Custom Brand Images:",
+                                    "descr": "Capture the essence of your brand with professional photographs that speak to your audience and highlight your unique value proposition."
+                                },
+                                {
+                                    "title": "On-Site Photography:",
+                                    "descr": "Benefit from a photography service directly at your premises, for authentic images of your team, your products, or your workspace."
+                                },
+                                {
+                                    "title": "Exceptional Visual Quality:",
+                                    "descr": "Elevate the level of your website and marketing materials with high-resolution images, ensuring a professional and memorable impression."
+                                },
+                                {
+                                    "title": "Brand Image Consistency:",
+                                    "descr": "Ensure visual consistency across all your online and offline channels, strengthening your brand's recognition with your target audience."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    "pages": {
+        "home": {
+            "hero-section": {
+                "title": "Web agency Switzerland",
+                "main": "Transform your visits into ",
+                "accent": "revenue",
+                "p": "Get premium Swiss web designs with straightforward, reliable support that boosts your business online.",
+                "certified1": "Peak Performance",
+                "certified2": "Distinctly Yours",
+                "certified3": "Transparent Pricing",
+                "primary-btn": "Calculate your price now",
+                "secondary-btn": "Contact us"
+            },
+            "paragraph-section": {
+                "header": "Complete Web Solutions",
+                "p": "We believe that every brand has a unique narrative to tell. Our goal is to design and develop websites that not only grab your visitors' attention but also contribute tangible benefits to your business's success."
+            },
+            "painpoints-section": {
+                "title": "Your web agency for a standout ",
+                "accent": "digital edge",
+                "sub": "Elevate your online presence",
+                "carousel": [
+                    {
+                        "mobileText": "Unexpected hidden costs?",
+                        "desktopText": "Surprise charges popping up out of the blue?"
+                    },
+                    {
+                        "mobileText": "Website security concerns?",
+                        "desktopText": "Security loopholes catching you off guard?"
+                    },
+                    {
+                        "mobileText": "Long support wait times?",
+                        "desktopText": "Sluggish response times for site issues?"
+                    },
+                    {
+                        "mobileText": "Visitors leaving due to slow pages?",
+                        "desktopText": "Page speed problems scaring visitors away?",
+                        "active": true
+                    },
+                    {
+                        "mobileText": "Invisible in the online world?",
+                        "desktopText": "Difficulty making your mark in the digital space?"
+                    },
+                    {
+                        "mobileText": "Mobile site performance issues?",
+                        "desktopText": "Mobile experience not meeting expectations?"
+                    },
+                    {
+                        "mobileText": "Data privacy uncertainties?",
+                        "desktopText": "Lost in the maze of data protection regulations?"
+                    }
+                ]
+            },
+            "bento-section": {
+                "card1": {
+                    "title": "Maximum return on investment",
+                    "p": "Our web designs are more than just looks—they turn visitors into loyal customers, maximizing your ROI."
+                },
+                "card2": {
+                    "title": "Unmatched performance and security",
+                    "p": "Our web designs deliver unbeatable speed and security for an exceptional user experience."
+                },
+                "card3": {
+                    "title": "Dedicated support and guidance",
+                    "p": "Receive personalized, expert support and advice at each step, ensuring your web presence is always dynamic and ahead of the curve."
+                },
+                "card4": {
+                    "title": "Competitive edge within the industry",
+                    "p": "Stand out with our unique web solutions, designed to give your business a competitive edge online."
+                },
+                "card5": {
+                    "title": "Advanced analytics and reporting",
+                    "p": "Unlock precise insights into your audience with our advanced analytics for smarter, strategic business moves."
+                }
+            },
+            "testimonial-section": {
+                "p": "“Layout.ch has exceeded my expectations and created an outstanding website for me. I am extremely satisfied and highly recommend their services.”",
+                "autor": "Chiara Messerli",
+                "work": "Professional Soccerplayer - YB"
+            },
+            "core-section": {
+                "title": "Performance ",
+                "accent": "at the heart",
+                "sub": "Our core values",
+                "p": "We prioritize rapid loading and smooth interactions. Discover Layout.ch's commitment to websites that work as beautifully as they look.",
+                "left-wrapper": {
+                    "text1": "The focus at our agency is to elevate your business presence through sites that are not only visually captivating but also exceptionally functional.",
+                    "text2": "At Layout.ch, our commitment is the creation of unique digital identities that resonate deeply with your audience. By harnessing the latest in web technology, we design compelling, high-performance websites."
+                },
+                "right-wrapper": {
+                    "title": "Why performance matters",
+                    "card1": {
+                        "title": "1 Second Delay -> 10% User Drop-off",
+                        "p": "The BBC found they lost an additional 10% of users for every additional second their site took to load."
+                    },
+                    "card2": {
+                        "title": "40% faster -> 15% more sign-ups",
+                        "p": "Pinterest's load time fell by 40%, sparking 15% more registrations."
+                    },
+                    "card3": {
+                        "title": "50% faster → 12% uplift in sales",
+                        "p": "AutoAnything cut load times by half and saw a 12-13% sales boost."
+                    },
+                    "studies": "View case-studies"
+                },
+                "lower-wrapper": {
+                    "title": "Our promise",
+                    "card1": {
+                        "title": "Custom Solutions.",
+                        "p": "Custom coding that fits your unique business needs."
+                    },
+                    "card2": {
+                        "title": "Conversion Focused.",
+                        "p": "Designs crafted to turn visitors into clients."
+                    },
+                    "card3": {
+                        "title": "Unique Branding.",
+                        "p": "Tailored design that perfectly captures your brand's spirit."
+                    },
+                    "card4": {
+                        "title": "Peak Performance.",
+                        "p": "Sites fine-tuned for lightning-fast loading and interaction."
+                    },
+                    "card5": {
+                        "title": "Local Presence.",
+                        "p": "Targeted SEO practices to boost your visibility in local searches."
+                    },
+                    "card6": {
+                        "title": "Privacy Compliant.",
+                        "p": "Stay secure and up-to-date with the latest privacy regulations."
+                    }
+                }
+            },
+            "basics-section": {
+                "title": "Web design ",
+                "accent": "fundamentals",
+                "sub": "Sustained simplicity",
+                "p": "Our focus is on providing essential web design services with enduring support. It's about crafting a reliable and effective online presence for you.",
+                "card1": {
+                    "title": "Instant quotes",
+                    "p": "No waiting for consultations. Configure your custom site and get immediate pricing. Transparency from the start.",
+                    "cta": "Get your price now"
+                },
+                "card2": {
+                    "title": "Uniquely yours",
+                    "p": "No templates here. Revel in a design and development process that's tailored exclusively for you, ensuring a unique and impactful web presence."
+                },
+                "card3": {
+                    "title": "Unmatched support",
+                    "p": "Guaranteed same-day responses, dedicated support tailored for success. Personalized assistance to keep your website ahead, no matter your objectives."
+                },
+                "card4": {
+                    "title": "Schedule your free 15-minute website review !",
+                    "p": "Get practical tips for website optimization that help you rank better on Google. Free of charge.",
+                    "cta": "Book your review"
+                }
+            },
+            "marquee-section": "Technologies used",
+            "portfolio-section": {
+                "title": "Latest works curated ",
+                "accent": "by Layout.ch",
+                "sub": "Recent projects",
+                "project1": {
+                    "title": "The Koaro - Massage Practice",
+                    "img": "Portfolio photo of a massage practice"
+                },
+                "project2": {
+                    "title": "Albert Gallegos - Financial Advisor",
+                    "img": "Portfolio photo of a financial advisor"
+                },
+                "project3": {
+                    "title": "Chiara Messerli - Portfolio Website",
+                    "img": "Portfolio photo of a top-level football player"
+                },
+                "cta": {
+                    "title": "A new achievement on the horizon.",
+                    "p": "Will it be yours?",
+                    "btn": "Begin our partnership"
+                }
+            },
+            "faq-section": {
+                "title": "Frequently  ",
+                "accent": "asked questions",
+                "sub": "FAQ",
+                "p": "Discover quick answers to common questions and get clarity on how we partner with you for your web design needs.",
+                "cards": [
+                    {
+                        "title": "What services does Layout.ch offer?",
+                        "text": [
+                            "At Layout.ch, we offer two tailored solutions for your online presence. 'Layout Basic' gets you up and running quickly and efficiently - perfect for small businesses or projects that want to go online fast. Our 'Layout Premium' package, on the other hand, includes a complete analysis and custom functionalities for sophisticated websites, complete with one year of VIP support covering all necessary updates and maintenance."
+                        ],
+                        "category": "homepage"
+                    },
+                    {
+                        "title": "How long does it take to create a website?",
+                        "text": [
+                            "At Layout.ch, the development of simple websites starts within just 5 to 10 days. For more comprehensive projects, we dedicate all the necessary time to ensure every detail aligns with your vision and that the website optimally supports your business. Our aim is to create top-quality websites that not only impress but also deliver tangible added value to your company."
+                        ],
+                        "category": "homepage"
+                    },
+                    {
+                        "title": "What sets Layout.ch apart from other web agencies?",
+                        "text": [
+                            "At Layout.ch, we have a clear mission: We do web design and nothing else. Unlike other agencies that offer a bit of everything, we're fully dedicated to creating unbeatable websites.",
+                            "This focus allows us to dive deep into the nuances of design and deliver custom solutions that perfectly match what you and your brand need. Templates? Not with us. We take the time to thoroughly analyze your business and the market to develop a website that truly sets you apart from the competition."
+                        ],
+                        "category": "homepage"
+                    },
+                    {
+                        "title": "How do we measure the success of a new website?",
+                        "text": [
+                            "With Layout.ch, you gain insights into real-time performance after your website launch. We use analytics to analyze user behavior and adjust strategies to achieve your goals. Benchmarking values from before the launch help us to measure progress and secure successes."
+                        ],
+                        "category": "homepage"
+                    }
+                ]
+            }
+        },
+        "impressum": {
+            "title": "Imprint",
+            "description": ""
+        },
+        "privacy": {
+            "title": "Privacy Policy",
+            "description": ""
+        },
+        "AGB": {
+            "title": "General Terms and Conditions",
+            "description": ""
+        }
+    }
+}
